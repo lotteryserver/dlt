@@ -68,6 +68,7 @@ https://t.me/lotterycodeapp
 
 	</view>
 </template>
+
 <script>
 	import {
 		getIssueNo
